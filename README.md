@@ -1,4 +1,4 @@
-React Riffs - Boilerplate
+ReactRiffs - React Starter
 
 A very simple boilerplate for playing in the react ecosystem
 
